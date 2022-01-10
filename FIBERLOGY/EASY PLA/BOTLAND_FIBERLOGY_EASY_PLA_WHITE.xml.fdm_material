@@ -23,7 +23,7 @@
     <setting key="end of filament purge length">20</setting>
     <setting key="break temperature">60</setting>
     <setting key="heated bed temperature">60.0</setting>
-    <setting key="print temperature">220.0</setting>
+    <setting key="print temperature">230.0</setting>
     <setting key="end of filament purge speed">0.5</setting>
     <setting key="break preparation position">-16</setting>
     <setting key="maximum park duration">7200</setting>
